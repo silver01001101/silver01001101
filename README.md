@@ -4,8 +4,8 @@ Linkedin: https://www.linkedin.com/in/deniz-cem-dogan-59b8b7237/
 My Company: https://sudolondon.com/ 
 
 
-[![Silver's GitHub stats](https://github-readme-stats.vercel.app/api?username=silver01001101)](https://github.com/anuraghazra/github-readme-stats)
-<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silver01001101&layout=compact)<!---
+
 silver01001101/silver01001101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
