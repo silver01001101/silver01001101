@@ -1,4 +1,3 @@
-Founder at a SWE Agency. Contact at deniz.dogan@sudolondon.com for work. Will work on opensource projects.
-
-Linkedin: https://www.linkedin.com/in/deniz-dogan-59b8b7237/
-My Company: https://sudolondon.com/ 
+Undergraduate in Computer Science @ The University of East Anglia
+Founder at a SWE Agency.
+Aspiring Software Engineer / Systems Developer.
