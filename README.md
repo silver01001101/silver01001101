@@ -1,9 +1,10 @@
-Undertaking a CS UG Degree @ https://www.uea.ac.uk/  
-Software Developer @ https://www.sudolondon.com/, https://marcossebastian.com/  
-Building a self driving car @ UEA Innovators  
+# Deniz Dogan
 
-TypeScript enjoyer, PHP hater.  
-Project Euler bangout   
-Rust Victim     
+technology renaissance man.
+cs @ university of east anglia
 
-<img width="940" height="460" alt="image" src="https://github.com/user-attachments/assets/c947d058-3aa9-4254-894e-658097fd624b" />
+building:
+- founder @ **NEAT** — runtime architecture graphs (Open Source Soon) https://neat.is/                
+- product at **Brief** (Now Open Source)        
+- software at **SUDO** https://www.sudolondon.com/        
+
