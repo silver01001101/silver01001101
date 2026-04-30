@@ -1,6 +1,6 @@
 # Deniz Dogan
 
-technology renaissance man.
+technology renaissance man.                
 cs @ university of east anglia
 
 building:
