@@ -4,6 +4,6 @@ technology renaissance man.
 cs @ university of east anglia
 
 building:                
-- product at **Brief** (Now Open Source) https://github.com/brief-app       
-- software at **SUDO** software agency. https://www.sudolondon.com/        
+- Architecture Is All You Need @ **Neat** (Open Source from Day One) https://neat.is/
+- serial startups & software @ **SUDO**. https://www.sudolondon.com/
 
